@@ -1,0 +1,16 @@
+0.000000	11.262340	The last poem I'll read this evening is a group. The group is called "The Speed of Darkness." 
+13.743872	27.964962	They're short poems and I'll just pause between poems. There should be numbers going up in back of me. One, two, three. I'll just pause. "The Speed of Darkness." 
+30.351051	30.351051	Beginning of first poem
+53.734723	53.734723	Beginning of second poem
+73.491539	73.491539	Beginning of third poem
+100.788396	100.788396	Beginning of fourth poem
+157.195538	157.195538	Beginning of fifth poem
+184.492396	184.492396	Beginning of sixth poem
+202.626671	202.626671	Beginning of seventh poem
+222.288044	222.288044	Audience member coughs
+224.196915	224.196915	Beginning of eighth poem
+238.465727	238.465727	Beginning of ninth poem
+249.871232	249.871232	Beginning of tenth poem
+281.081275	281.081275	Beginning of eleventh poem
+300.217708	300.217708	Beginning of twelfth poem
+343.692248	343.692248	Beginning of thirteenth poem

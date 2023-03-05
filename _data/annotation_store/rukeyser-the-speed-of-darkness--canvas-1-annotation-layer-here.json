@@ -1,0 +1,338 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/annotations/rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here.json",
+  "type": "AnnotationPage",
+  "label": "Annotation layer here",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They're short poems and I'll just pause between poems. There should be numbers going up in back of me. One, two, three. I'll just pause. \"The Speed of Darkness.\" ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "13.743872,27.964962"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of first poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "30.351051"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of second poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "53.734723"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of third poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "73.491539"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of fourth poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "100.788396"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of fifth poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "157.195538"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of sixth poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "184.492396"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of seventh poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "202.626671"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Audience member coughs",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "222.288044"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of eighth poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "224.196915"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of ninth poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "238.465727"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of tenth poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "249.871232"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of eleventh poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "281.081275"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of twelfth poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "300.217708"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-annotation-layer-here-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of thirteenth poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "343.692248"
+        }
+      }
+    }
+  ]
+}
