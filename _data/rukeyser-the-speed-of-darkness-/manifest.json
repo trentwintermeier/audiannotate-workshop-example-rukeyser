@@ -13,7 +13,7 @@
     ],
     "provider": [
       {
-        "id": "archive.org",
+        "id": "www.archive.org",
         "type": "Agent",
         "label": { "en": [ "Internet Archive" ] }
       }
