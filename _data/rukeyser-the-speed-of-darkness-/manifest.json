@@ -27,6 +27,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/annotations/rukeyser-the-speed-of-darkness--canvas-1-audacity-annotations.json",
+            "label": {
+              "none": ["Audacity Annotations"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/annotations/rukeyser-the-speed-of-darkness--canvas-1-second-poem.json",
             "label": {
               "none": ["second poem"]
