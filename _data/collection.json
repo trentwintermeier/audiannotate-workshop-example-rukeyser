@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "AudiAnnotate Workshop: The Speed of Darkness" ] },
+    "summary": { "en": [ "This project is an example for a DH workshop. The audio used is a recording of Muriel Rukeyser's \"The Speed of Darkness\"" ] },
+    "items": [
+    ]
+}
