@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/annotations/rukeyser-the-speed-of-darkness--canvas-1-introduction.json",
+  "type": "AnnotationPage",
+  "label": "introduction",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-introduction-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The last poem I'll read this evening is a group. The group is called \"The Speed of Darkness.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-introduction-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They're short poems and I'll just pause between poems. There should be numbers going up in back of me. One, two, three. I'll just pause. \"The Speed of Darkness.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "13,27"
+        }
+      }
+    }
+  ]
+}

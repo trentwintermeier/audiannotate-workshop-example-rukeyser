@@ -23,6 +23,32 @@
         "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 371.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/annotations/rukeyser-the-speed-of-darkness--canvas-1-second-poem.json",
+            "label": {
+              "none": ["second poem"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/annotations/rukeyser-the-speed-of-darkness--canvas-1-first-poem.json",
+            "label": {
+              "none": ["first poem"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/annotations/rukeyser-the-speed-of-darkness--canvas-1-introduction.json",
+            "label": {
+              "none": ["introduction"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/paintings",

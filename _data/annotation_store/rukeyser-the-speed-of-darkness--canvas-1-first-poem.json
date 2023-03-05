@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/annotations/rukeyser-the-speed-of-darkness--canvas-1-first-poem.json",
+  "type": "AnnotationPage",
+  "label": "first poem",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rukeyser-the-speed-of-darkness--canvas-1-first-poem-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of first poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/audiannotate-workshop-example-rukeyser/rukeyser-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "30"
+        }
+      }
+    }
+  ]
+}
